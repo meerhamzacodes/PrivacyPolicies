@@ -29,6 +29,7 @@ This is an app which lets you watch ads and earn usd dollars in your free time.
 
 **Can you delete your Data?**
 + You can request a deletion of your account.
++ [How to Delete your Data](https://github.com/meerhamzacodes/UserData/blob/main/adsBox/userdata.md)
 
 **Can you backup your Data?**
 + Online data does not need to be backedup.
@@ -46,7 +47,7 @@ This is an app which lets you watch ads and earn usd dollars in your free time.
 
 **Can you delete your Data?**
 + Yes this data that you send by email can be deleted
-+ [How to Delete your Data]()
++ [How to Delete your Data](https://github.com/meerhamzacodes/UserData/blob/main/adsBox/userdata.md)
 
 **Can you backup your Data?**
 + No, You can not backup this data
