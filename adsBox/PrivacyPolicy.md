@@ -1,29 +1,40 @@
 # adsBox
 This is an app which lets you watch ads and earn usd dollars in your free time.
 ## Privacy Policy
->This App stores data **offline.**
+>This App stores data both **offline and online**
 
 ### App Data
 >This data is what the app creates depending on what you do and stores it offline on your device
 
 **What is your Data?**
-+ Money (which you earn by watching ads)
 + History (everytime you earn money, a receipt is created in this page)
 
 **What do you do with your Data?**
-+ Money (you use this Data to withdraw cash)
 + History (you use this to see from where you earned cash)
 
 **Can you delete your Data?**
-+ When you uninstall app, Since all the Data is Offline, it will be automatically deleted
++ When you uninstall app, Since all the History is Offline, it will be automatically deleted
 + You can delete the History Data yourself inside the app whenever you feel like it.
 
 **Can you backup your Data?**
-+ You can use your google account to backup your offline apps data I think.
-+ You can search it on google but the app itself does not provide such service.
++ The app itself does not provide any backup service for this.
+
+>This data is what the app creates depending on what you do and stores it online on your device
+
+**What is your Data?**
++ Money (which you earn by watching ads)
+
+**What do you do with your Data?**
++ Money (you use this Data to withdraw cash)
+
+**Can you delete your Data?**
++ You can request a deletion of your account.
+
+**Can you backup your Data?**
++ Online data does not need to be backedup.
 
 ### User Data
->This data is what the app creates depending on what you do and stores it offline on your device
+>This data is that you send yourself via your preferred email service to proceed with the transaction.
 
 **What is your Data?**
 + Email (this is used to verify payment)
